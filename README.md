@@ -15,13 +15,11 @@ Be sure to list where you got any data used within the project. Be sure to ackno
 
 ## Current Plan
 
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
-
+In this project, I intend to create a respository in Github. In this repository, there will include a pdf file with multiple tables and plots. You can refer to the detailed plan document.
 ## Repo Structure
 
-Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
-
+In this repository, there will be a pdf file, a QMD file, a README file and a detailed text file that contains the plan for creating this repository and maintaining it.
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+The author for this project is Vishnu Bommisetty. You can contact them at vbb5176@psu.edu
