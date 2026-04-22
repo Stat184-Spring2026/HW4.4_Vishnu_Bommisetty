@@ -1,9 +1,9 @@
 # Project Title
-
-This repo is for a Stat184 homework assignment 4.4. Overall, we want to have a good understanding of how to use all the features in github to ensure we are prepared for any future projects using this platform.
+Stat184 HW 4.4- learning how to use git
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+This repo is for our Stat184 homework assignment 4.4. Overall, we want to have a good understanding of how to use all the features in github to ensure we are prepared for any future projects using this platform.
+This repository will consist of our pdf file from HW 4.3 as our main output file.
 
 ### Interesting Insight (Optional)
 
