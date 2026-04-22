@@ -6,6 +6,8 @@ date-modified: now
 format: pdf
 ---
 
+Type of coding style: Google's R style 
+
 ## Busiest Airports Table 
 
 Here I will be making a professional looking table for the Busiest Airports. This will ultimately show improvement from the previous table in the 3.4 assignment  
