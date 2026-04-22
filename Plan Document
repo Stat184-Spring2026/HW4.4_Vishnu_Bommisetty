@@ -1,2 +1,6 @@
-Firstly for the project, the plan is to create a QMD file and render it as a pdf file. In the pdf file, we should have multiple tables and plots along with narrative text supporting their message to the viewers. Ultimately, we are improving upon our previous HW 3.4 and applying these skills to Quarto Documents.
+Firstly for the project, the plan is to create a QMD file and render it as a pdf file. In the pdf file, we should have multiple tables and plots along with narrative text supporting their message to the viewers. 
+Ultimately, we are improving upon our previous HW 3.4 and applying these skills to Quarto Documents.
 
+
+Our next step in the plan is to set up a new repository inside the Stat184 organization. This repository will have to contain multiple files such as a README file, a QMD file and the PDF file from HW4.3. 
+Along with this, additionally I have to make sure to have multiple meaningful commit message and create and resolve 2 issues in the repo in order to fully understand how to utilize that part of Gits features.
